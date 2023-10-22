@@ -1,4 +1,4 @@
-# VIBE-Variational-Information-Bottleneck-for-Evolutions-Temporal-Adaptation
+# VIBE-Temporal-Adaptation
 The official implementation of EMNLP 2023 paper "VIBE: Topic-Driven Temporal Adaptation for Twitter Classification"
 
 
